@@ -1,0 +1,15 @@
+.container {
+  width: 50%;
+}
+
+.frame {
+  border: 1px solid;
+  margin-bottom: 10px;
+}
+
+.bingkai {
+  padding: 30px;
+  border: 1px solid;
+  height: 120px;
+  width: 200px;
+}
